@@ -18,7 +18,7 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle ("QrCode")]
+[assembly: AssemblyTitle ("ArdeshirV.Utilities.QrCode")]
 [assembly: AssemblyDescription ("QR Code Generator for .Net\n" +
                                 "Copyright (c) ArdeshirV@protonmail.com (MIT License)\n" +
                                 "https://ardeshirv.github.io/ArdeshirV.Utility.QrCode/\n" +
