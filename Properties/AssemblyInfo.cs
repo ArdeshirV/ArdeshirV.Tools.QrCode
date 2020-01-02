@@ -22,10 +22,10 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription ("QR Code Generator for .Net\n" +
                                 "Copyright (c) ArdeshirV@protonmail.com (MIT License)\n" +
                                 "https://ardeshirv.github.io/ArdeshirV.Utility.QrCode/\n" +
-                                "Downgrade to C# 2.0 by ArdeshirV\n" +
+                                "Downgrade to C# 2.0 by ArdeshirV\n\n" +
                                 "Copyright (c) Manuel Bleichenbacher (MIT License)\n" +
                                 "https://github.com/manuelbl/QrCodeGenerator\n" +
-                                "Convert to C# by Manuel Bleichenbacher\n" +
+                                "Convert to C# by Manuel Bleichenbacher\n\n" +
                                 "Copyright (c) Project Nayuki (MIT License)\n" +
                                 "https://www.nayuki.io/page/qr-code-generator-library")]
 [assembly: AssemblyConfiguration ("")]
