@@ -1,6 +1,5 @@
 <html>
 	<head>
-		<title>QrCode</title>
 		<link rel="icon" type="image/ico" href="https://raw.githubusercontent.com/ArdeshirV/ArdeshirV.Utility.QrCode/master/Resources/Logo.png">
 	</head>
 <body>
