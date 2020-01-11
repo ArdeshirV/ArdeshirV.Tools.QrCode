@@ -1,5 +1,7 @@
 # QR Code Generator for .NET
 
+	<link rel="icon" type="image/ico" href="https://raw.githubusercontent.com/ArdeshirV/ArdeshirV.Utility.QrCode/master/Resources/Logo.png">
+    
 <a href="https://github.com/ArdeshirV/ArdeshirV.Utility.QrCode">Source Code on My Github</a>
 
 Open-source library for generating QR codes from text strings and byte arrays.
