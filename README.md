@@ -1,5 +1,11 @@
+<html>
+	<head>
+		<link rel="icon" type="image/ico" href="https://raw.githubusercontent.com/ArdeshirV/ArdeshirV.Utility.QrCode/master/Resources/Logo.png">
+	</head>
+<body>
 # QR Code Generator for .NET
 
+    
 <a href="https://github.com/ArdeshirV/ArdeshirV.Utility.QrCode">Source Code on My Github</a>
 
 Open-source library for generating QR codes from text strings and byte arrays.
@@ -141,3 +147,4 @@ This project is a downgrade of QrCodeGenerator for C# 2.0. You can find original
 
 
 Copyright Manuel Bleichenbacher & Project Nayuki & ArdeshirV@protonmail.com, Licensed under MIT
+</body>
