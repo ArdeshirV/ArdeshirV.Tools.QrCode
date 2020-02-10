@@ -33,6 +33,18 @@ namespace ArdeshirV.Utilities.QrCode
 	/// </summary>
 	public static class Res
 	{
+		public static Image NayukiAvator {
+			get {
+				return Resources.Nayuki;
+			}
+		}
+		
+		public static Image ManuelBleichenbacherAvator {
+			get {
+				return Resources.ManuelBleichenbacher;
+			}
+		}
+		
 		public static string License {
 			get {
 				return Resources.LICENSE;

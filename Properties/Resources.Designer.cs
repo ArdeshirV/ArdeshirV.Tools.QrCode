@@ -95,9 +95,29 @@ namespace QrCode.Properties {
 		/// <summary>
 		///   Looks up a localized resource of type System.Drawing.Bitmap.
 		/// </summary>
+		internal static System.Drawing.Bitmap ManuelBleichenbacher {
+			get {
+				object obj = ResourceManager.GetObject("ManuelBleichenbacher", resourceCulture);
+				return ((System.Drawing.Bitmap)(obj));
+			}
+		}
+		
+		/// <summary>
+		///   Looks up a localized resource of type System.Drawing.Bitmap.
+		/// </summary>
 		internal static System.Drawing.Bitmap MIT {
 			get {
 				object obj = ResourceManager.GetObject("MIT", resourceCulture);
+				return ((System.Drawing.Bitmap)(obj));
+			}
+		}
+		
+		/// <summary>
+		///   Looks up a localized resource of type System.Drawing.Bitmap.
+		/// </summary>
+		internal static System.Drawing.Bitmap Nayuki {
+			get {
+				object obj = ResourceManager.GetObject("Nayuki", resourceCulture);
 				return ((System.Drawing.Bitmap)(obj));
 			}
 		}
