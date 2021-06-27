@@ -33,10 +33,10 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Text;
-//using static ArdeshirV.Utilities.QrCode.QrSegment;
-using ArdeshirV.Utilities.QrCode;
+//using static ArdeshirV.Tools.QrCode.QrSegment;
+using ArdeshirV.Tools.QrCode;
 
-namespace ArdeshirV.Utilities.QrCode
+namespace ArdeshirV.Tools.QrCode
 {
     /// <summary>
     /// Advanced methods for encoding QR codes using Kanji mode or using multiple segments with different encodings.

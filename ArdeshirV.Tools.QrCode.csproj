@@ -6,8 +6,8 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <OutputType>Library</OutputType>
-    <RootNamespace>QrCode</RootNamespace>
-    <AssemblyName>ArdeshirV.Utilities.QrCode</AssemblyName>
+    <RootNamespace>ArdeshirV.Tools.QrCode</RootNamespace>
+    <AssemblyName>ArdeshirV.Tools.QrCode</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <TargetFrameworkProfile />

@@ -36,7 +36,7 @@ using System.Drawing;
 using System.Drawing.Imaging;
 using System.Text;
 
-namespace ArdeshirV.Utilities.QrCode
+namespace ArdeshirV.Tools.QrCode
 {
     /// <summary>
     /// Represents a QR code containing text or binary data.

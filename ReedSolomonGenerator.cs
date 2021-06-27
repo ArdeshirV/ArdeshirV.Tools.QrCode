@@ -31,7 +31,7 @@
 using System;
 using System.Diagnostics;
 
-namespace ArdeshirV.Utilities.QrCode
+namespace ArdeshirV.Tools.QrCode
 {
     /// <summary>
     /// Computes the Reed-Solomon error correction codewords for a sequence of data codewords at a given degree.

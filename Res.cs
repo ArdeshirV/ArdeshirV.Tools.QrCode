@@ -24,9 +24,9 @@
  */
 using System;
 using System.Drawing;
-using QrCode.Properties;
+using ArdeshirV.Tools.QrCode.Properties;
 
-namespace ArdeshirV.Utilities.QrCode
+namespace ArdeshirV.Tools.QrCode
 {
 	/// <summary>
 	/// Access to local resources

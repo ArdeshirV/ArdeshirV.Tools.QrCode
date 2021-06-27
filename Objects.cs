@@ -30,7 +30,7 @@
 
 using System;
 
-namespace ArdeshirV.Utilities.QrCode
+namespace ArdeshirV.Tools.QrCode
 {
     /// <summary>
     /// Helper functions to check for valid arguments.

@@ -31,7 +31,7 @@
 using System;
 using System.Collections;
 
-namespace ArdeshirV.Utilities.QrCode
+namespace ArdeshirV.Tools.QrCode
 {
     /// <summary>
     /// Extension methods for the <see cref="BitArray"/> class.

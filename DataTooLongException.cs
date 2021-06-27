@@ -31,7 +31,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace ArdeshirV.Utilities.QrCode
+namespace ArdeshirV.Tools.QrCode
 {
     /// <summary>
     /// The exception that is thrown when the supplied data does not fit in the QR code.

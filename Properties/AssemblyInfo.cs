@@ -18,7 +18,7 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle ("ArdeshirV.Utilities.QrCode")]
+[assembly: AssemblyTitle ("QrCode")]
 [assembly: AssemblyDescription ("QR Code Generator for .Net\n" +
                                 "Copyright (c) ArdeshirV@protonmail.com (MIT License)\n" +
                                 "https://ardeshirv.github.io/ArdeshirV.Utility.QrCode/\n" +
@@ -30,9 +30,9 @@ using System.Runtime.InteropServices;
                                 "https://www.nayuki.io/page/qr-code-generator-library")]
 [assembly: AssemblyConfiguration ("")]
 [assembly: AssemblyCompany ("ArdeshirV")]
-[assembly: AssemblyProduct ("QrCode")]
+[assembly: AssemblyProduct ("ArdeshirV.Tools.QrCode")]
 [assembly: AssemblyCopyright ("Copyright Manuel Bleichenbacher & Project Nayuki & ArdeshirV (MIT License)")]
-[assembly: AssemblyTrademark ("QrCode")]
+[assembly: AssemblyTrademark ("ArdeshirV.Tools.QrCode")]
 [assembly: AssemblyCulture ("")]
 // This sets the default COM visibility of types in the assembly to invisible.
 // If you need to expose a type to COM, use [ComVisible(true)] on that type.
@@ -43,5 +43,5 @@ using System.Runtime.InteropServices;
 //
 // You can specify all the values or you can use the default the Revision and 
 // Build Numbers by using the '*' as shown below:
-[assembly: AssemblyVersion ("1.4.1")]
+[assembly: AssemblyVersion ("1.4.*")]
 [assembly: Guid ("24d77e3b-9f98-4fec-be75-1ae771838c91")]
